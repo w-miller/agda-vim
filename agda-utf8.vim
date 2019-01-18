@@ -230,6 +230,7 @@ imap <buffer> <LocalLeader>subseteq ⊆
 imap <buffer> <LocalLeader>subeq ⊆
 imap <buffer> <LocalLeader>subsetneq ⊊
 imap <buffer> <LocalLeader>subneq ⊊
+imap <buffer> <LocalLeader>suc 🍆
 imap <buffer> <LocalLeader>sum ∑
 imap <buffer> <LocalLeader>supset ⊃
 imap <buffer> <LocalLeader>sup ⊃
@@ -645,6 +646,7 @@ cmap <buffer> <LocalLeader>subseteq ⊆
 cmap <buffer> <LocalLeader>subeq ⊆
 cmap <buffer> <LocalLeader>subsetneq ⊊
 cmap <buffer> <LocalLeader>subneq ⊊
+cmap <buffer> <LocalLeader>suc 🍆
 cmap <buffer> <LocalLeader>sum ∑
 cmap <buffer> <LocalLeader>supset ⊃
 cmap <buffer> <LocalLeader>sup ⊃
