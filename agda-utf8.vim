@@ -63,6 +63,7 @@ imap <buffer> <LocalLeader>=? ≟
 imap <buffer> <LocalLeader>all ∀
 imap <buffer> <LocalLeader>always □
 imap <buffer> <LocalLeader>approx ≈
+imap <buffer> <LocalLeader>B 𝔹
 imap <buffer> <LocalLeader>bot ⊥
 imap <buffer> <LocalLeader>box □
 imap <buffer> <LocalLeader>boxdot ⊡
