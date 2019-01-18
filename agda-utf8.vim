@@ -477,6 +477,7 @@ cmap <buffer> <LocalLeader>=? ≟
 cmap <buffer> <LocalLeader>all ∀
 cmap <buffer> <LocalLeader>always □
 cmap <buffer> <LocalLeader>approx ≈
+cmap <buffer> <LocalLeader>B 𝔹
 cmap <buffer> <LocalLeader>bot ⊥
 cmap <buffer> <LocalLeader>box □
 cmap <buffer> <LocalLeader>boxdot ⊡
